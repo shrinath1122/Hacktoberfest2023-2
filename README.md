@@ -43,5 +43,3 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 
 Happy Hacking! 🚀
-
-Make sure to replace `[Your Username]`, `[Problem Title]`, and `[Programming Lan
